@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "751523825452",
+    "project_id": "whatsapp-clone-45398",
+    "storage_bucket": "whatsapp-clone-45398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751523825452:android:37ceb107dfe0f5f2044e89",
+        "android_client_info": {
+          "package_name": "com.example.ftest_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751523825452-kec4235e200r9o0af8aaa22r8a7cur2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ftest_app",
+            "certificate_hash": "7630280050f01a3f1e03c614a4a00c46368b261f"
+          }
+        },
+        {
+          "client_id": "751523825452-c0e3qc4g5mjnk9cj5cf2kdtada4ohhhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_RZYjwhblZ0Iwfgax1lMjRmgjrqgtE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751523825452-c0e3qc4g5mjnk9cj5cf2kdtada4ohhhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751523825452:android:958fd1c211cf6710044e89",
+        "android_client_info": {
+          "package_name": "com.example.wclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751523825452-c0e3qc4g5mjnk9cj5cf2kdtada4ohhhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_RZYjwhblZ0Iwfgax1lMjRmgjrqgtE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751523825452-c0e3qc4g5mjnk9cj5cf2kdtada4ohhhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
